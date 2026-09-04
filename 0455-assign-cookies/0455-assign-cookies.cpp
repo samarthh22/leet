@@ -9,10 +9,8 @@ public:
         while(i < n && j < m) {
             if(s[j] >= g[i]) {
                 i++;
-                j++;
-            }else {
-                j++;
             }
+            j++;
         }
         return i;
     }
