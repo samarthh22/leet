@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/samarthh22/leet/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/samarthh22/leet/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/samarthh22/leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/samarthh22/leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/samarthh22/leet/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/samarthh22/leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/samarthh22/leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
