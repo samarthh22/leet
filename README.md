@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/samarthh22/leet/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/samarthh22/leet/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/samarthh22/leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/samarthh22/leet/tree/master/0860-lemonade-change) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/samarthh22/leet/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/samarthh22/leet/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/samarthh22/leet/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/samarthh22/leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/samarthh22/leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/samarthh22/leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
